@@ -1,6 +1,7 @@
 # ERC-Token_Rica
 let's take a little peek into the world of blockchain and create our own Token on Ethereum
 The goal here is to make the first steps in Building a Token on Ethereum via smart contracts
+https://etherscan.io/token/0x0f4df0b233cfeb0078cd2daa2172a0a893a6bdf1
 
 
 ### Development
